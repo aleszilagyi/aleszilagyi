@@ -10,7 +10,7 @@ solutions to the world.
 I'm an architect, moving to web and mobile programming :computer:
 <hr>
 
-- 🔭 I’m currently working on an architecture office
+- 🔭 I’m currently working on architecture projects
 - :rocket: I'm currently engaged with the Next Level Week from @Rocketseat
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 🤔 I’m looking for help with HTML, CSS and Javascript
