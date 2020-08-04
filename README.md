@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Alexandre Szilagyi</h1>
 
-I always loved how technology solves the daily problems <br>
-and now I'm learning to use programming languages to bring <br>
+I always loved how technology solves the daily problems and now I'm learning to use programming languages to bring
 solutions to the world.
 <br>
 <br>
