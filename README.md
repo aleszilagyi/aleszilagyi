@@ -7,6 +7,7 @@ I always loved how technology solves the daily problems <br>
 and now I'm learning to use programming languages to bring <br>
 solutions to the world.
 <br>
+<br>
 I'm an architect, currently moving to web and mobile programming :computer:
 <hr>
 
