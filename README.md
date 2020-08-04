@@ -1,9 +1,9 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Hi there 👋
-## I'm Alexandre Szilagyi
+<h1 align="center">Hi there 👋</h1>
+<h2>I'm Alexandre Szilagyi</h2>
 
-I've always loved how technology solves the daily problems <br>
+I always loved how technology solves the daily problems <br>
 and now I'm learning to use programming languages to bring <br>
 solutions to the world.
 <br>
