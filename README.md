@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 <h1 align="center">Hi there 👋, I'm Alexandre Szilagyi</h1>
 
 I always loved how technology solves the daily problems and now I'm learning to use programming languages to bring
