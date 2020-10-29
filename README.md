@@ -7,7 +7,7 @@ I'm an architect, currently moving to a carreer in web and mobile programming :c
 <hr>
 
 - 🔭 I’m currently working on architecture projects, and creating my first app projects
-- :rocket: I'm currently engaged in ReactJS, React Native and NodeJS studies
+- :rocket: I'm currently engaged in initiating my career as a developer
 - 🌱 I’m currently learning ReactJS, React Native and NodeJS
 - 🤔 I’m looking for help with ReactJS, React Native and NodeJS
 - 💬 Ask me about architecture, art history, color and layout composition
