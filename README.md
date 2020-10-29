@@ -3,7 +3,7 @@
 I'm passionate about technology, love the way it solves daily problems, and now I'm committed to learn programming languages to help bring solutions to the world.
 <br>
 <br>
-I'm an architect, currently moving to web and mobile programming :computer:
+I'm an architect, currently moving to a carreer in web and mobile programming :computer:
 <hr>
 
 - 🔭 I’m currently working on architecture projects, and creating my first app projects
