@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alexandre Szilagyi</h1>
 
-I'm passionate about technology, love the way it solves daily problems, and now I'm committed to learning programming languages to help bring solutions to the world.
+I'm passionate about technology, love the way it solves daily problems, and now I'm committed to learning programming languages and help to bring solutions to the world.
 <br>
 <br>
 I'm an architect, currently moving to a carreer in web and mobile programming :computer:
