@@ -8,7 +8,7 @@ I'm an architect, currently moving to a carreer in web and mobile programming :c
 
 - 🔭 I’m currently working on architecture projects, and creating my first app projects
 - :rocket: I'm currently engaged in initiating my career as a developer
-- 🌱 I’m currently learning ReactJS, React Native and NodeJS
+- 🌱 I’m currently learning ReactJS or Angular, React Native and NodeJS
 - 🤔 I’m looking for help with ReactJS, React Native and NodeJS
 - 💬 Ask me about architecture, art history, color and layout composition
 - 😄 About me: games COD: Modern Warfare, DOTA 2, expert in Netflix's DARK and Stranger Things
