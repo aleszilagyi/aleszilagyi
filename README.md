@@ -8,8 +8,8 @@ I'm an architect, currently moving to a carreer in web and mobile programming :c
 
 - 🔭 I’m currently working on architecture projects, and creating my first app projects
 - :rocket: I'm currently engaged in initiating my career as a developer
-- 🌱 I’m currently learning ReactJS or Angular, React Native and NodeJS
-- 🤔 I’m looking for help with ReactJS/Angular, React Native and NodeJS
+- 🌱 I’m currently learning ReactJS and NodeJS with Typescript, and just started with Elixir
+- 🤔 I’m looking for help with Elixir
 - 💬 Ask me about architecture, art history, color and layout composition
 - 😄 About me: games COD: Modern Warfare, DOTA 2, expert in Netflix's DARK and Stranger Things
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlexandreSzilagyi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-szilagyi-santos-133864108/)](https://www.linkedin.com/in/alexandre-szilagyi-santos-133864108/)
