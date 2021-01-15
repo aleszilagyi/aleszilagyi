@@ -8,7 +8,7 @@ I'm an architect, currently moving to a carreer in web programming :computer:
 
 - 🔭 I’m currently working on architecture projects, and creating my first app projects
 - :rocket: I'm currently engaged in initiating my career as a developer
-- 🌱 I’m currently learning ReactJS and NodeJS with Typescript, and just started with Elixir
+- 🌱 I’m currently learning ReactJS and NodeJS with Typescript, and also just started having some fun with Elixir
 - 🤔 I’m looking for help with Elixir
 - 💬 Ask me about architecture, art history, color and layout composition
 - 😄 About me: games COD: Modern Warfare, DOTA 2, expert in Netflix's DARK and Stranger Things
